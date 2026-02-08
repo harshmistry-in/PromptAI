@@ -58,8 +58,8 @@ def main():
 
                 
         
-        st.markdown("---")
-        st.markdown("Created with love ❤️ by **Harsh Mistry** - Prompt Engineer")
+    st.markdown("---")
+    st.markdown("Created with love ❤️ by **Harsh Mistry** - Prompt Engineer")
 
 
 if __name__ == "__main__":
